@@ -1,7 +1,7 @@
 +++
 title = 'Azure'
 date = 2024-04-12T11:02:03+03:00
-draft = true
+
 +++
 in the ever-evolving landscape of cloud computing, [Microsoft Azure](https://azure.microsoft.com/) stands as a prominent and comprehensive platform, providing a vast array of services and solutions to meet the diverse needs of business and developers. Azure offers a robust cloud infrastructure, cutting-edge technologies, and a scalable environment, making it a go-to choice for organizations worldwide.
 
